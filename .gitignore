@@ -3,6 +3,7 @@
 *.class
 
 # Ignorar configuraciones privadas de NetBeans
+/nbproject/
 /nbproject/private/
 
 # Ignorar archivos temporales
