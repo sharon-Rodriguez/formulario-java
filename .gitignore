@@ -1,0 +1,9 @@
+/build/
+/dist/
+*.class
+
+# Ignorar configuraciones privadas de NetBeans
+/nbproject/private/
+
+# Ignorar archivos temporales
+*.log
